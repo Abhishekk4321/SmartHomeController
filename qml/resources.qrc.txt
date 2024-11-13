@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/screens/Screen1.qml</file> <!-- Add other QML files as needed -->
+        <file>qml/components/Component1.qml</file> <!-- Add other QML files as needed -->
+        <!-- Add assets or other QML files if necessary -->
+    </qresource>
+</RCC>
