@@ -1,0 +1,9 @@
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+*.pro.user
+*.qmake.stash
+*.o
+*.obj
+*.moc
+*.log
